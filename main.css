@@ -72,13 +72,13 @@ body {
   margin-right: 20px;
 }
 .story_item:nth-child(1) {
-  background-image: url(/img/we-plan.png);
+  background-image: url(../img/we-build.png);
 }
 .story_item:nth-child(2) {
-  background-image: url(/img/we-manage.png);
+  background-image: url(../img/we-manage.png);
 }
 .story_item:nth-child(3) {
-  background-image: url(/img/we-build.png);
+  background-image: url(../img/we-build.png);
   margin-right: 0;
 }
 
